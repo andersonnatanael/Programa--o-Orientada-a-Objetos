@@ -30,6 +30,5 @@ public class ex01 {
         for (int n = 0; n <= numero; n++) {
             JOptionPane.showMessageDialog(null, n, "Exercício 1", JOptionPane.INFORMATION_MESSAGE);
         }
-        
     }
 }
